@@ -1,0 +1,7 @@
+order_id,date,amount,region
+O401,2025-01-10,5000.0,North
+O402,2025-01-15,,North
+O403,2025-01-20,3000.0,South
+O404,2025-01-25,,South
+O405,2025-02-01,7000.0,North
+

@@ -1,0 +1,6 @@
+customer_id,name,segment,region
+C001,Acme Corp,Enterprise,North
+C001,Acme Corp,SMB,South
+C002,Global Tech,Enterprise,South
+C003,Vertex Labs,SMB,West
+

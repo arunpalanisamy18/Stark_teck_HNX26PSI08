@@ -1,0 +1,4 @@
+customer_id,name,segment,credit_limit
+C001,Acme Corp,Retail,5000
+C002,Global Tech,Enterprise,80000
+

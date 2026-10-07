@@ -1,0 +1,5 @@
+order_id,product_id,units_sold,unit_price,revenue
+O701,P01,10,50.0,500.0
+O702,P02,5,100.0,500.0
+O703,P03,2,250.0,500.0
+

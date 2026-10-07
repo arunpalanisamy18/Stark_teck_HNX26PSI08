@@ -1,0 +1,6 @@
+order_id,note_id,note_text
+O601,N1,Customer requested expedited delivery
+O601,N2,Fragile package handling
+O601,N3,Gift wrap included
+O602,N1,Standard delivery
+

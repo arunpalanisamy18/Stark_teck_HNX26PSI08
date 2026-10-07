@@ -1,0 +1,6 @@
+order_id,customer_id,amount,currency
+O201,C001,1000.0,USD
+O202,C002,83000.0,INR
+O203,C003,500.0,USD
+O204,C004,166000.0,INR
+

@@ -1,0 +1,12 @@
+customer_id,customer_name,city,customer_segment
+C101,Aarav Sharma,Chennai,Enterprise
+C102,Diya Patel,Mumbai,Consumer
+C103,Rohan Iyer,Bengaluru,SMB
+C104,Ananya Rao,Chennai,Consumer
+C105,Vikram Singh,Delhi,Enterprise
+C106,Pooja Nair,Kochi,SMB
+C107,Karthik Subramanian,Chennai,Enterprise
+C108,Sneha Kulkarni,Pune,Consumer
+C109,Rahul Verma,Hyderabad,SMB
+C110,Meera Joshi,Chennai,SMB
+
