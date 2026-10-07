@@ -6,6 +6,10 @@
 
 VERITAS is a forensic data-analysis and proof-verification console. It answers natural-language questions about tabular data using a **100% local LLM** — no paid API required — and produces a cryptographically traceable proof certificate for every result. If the system cannot establish a reliable, unambiguous answer, it **refuses** rather than hallucinating.
 
+Example datasets :
+1. https://www.kaggle.com/datasets/vinothkannaece/sales-dataset
+2. https://www.kaggle.com/datasets/desolution01/messy-employee-dataset
+
 ---
 
 ## Table of Contents
